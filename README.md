@@ -53,8 +53,14 @@ To create a structured and consistent dataset that demonstrates annotation quali
 ---
 
 ## 📸 Sample Annotations
-Annotated samples demonstrating different scenarios are available in the `/samples` folder.
+Annotated samples demonstrating different scenarios are available in the `/samples` folder.-  
 
+---
+
+## 📂 Dataset Status
+This is a prototype dataset. Currently, a curated set of annotated samples is provided in the `/samples` folder to demonstrate annotation quality and consistency.
+
+Full dataset and annotation files will be added in future updates.
 ---
 
 ## 🚀 Future Improvements
