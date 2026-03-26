@@ -67,3 +67,12 @@ Full dataset and annotation files will be added in future updates.
 - Expand dataset size (100+ images)
 - Add more challenging real-world scenarios
 - Improve annotation consistency across all samples
+
+## 📦 Dataset Format
+
+The dataset is exported in COCO 1.0 format.
+
+- Annotation file: `/annotations/duck_annotation_coco.json`
+- Includes bounding box coordinates, image metadata, and category labels
+
+This format is compatible with most modern computer vision frameworks.
